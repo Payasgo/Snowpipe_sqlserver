@@ -1,0 +1,9 @@
+{
+	"name": "getdatapipe",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d3ea9ac-539e-488e-a778-3d1b1efd7565",
+		"tenantId": "2db0e13c-89f2-4a67-88ce-504c6fb70607"
+	}
+}
